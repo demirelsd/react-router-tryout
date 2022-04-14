@@ -5,7 +5,7 @@ const Checkout = () => {
     const location =useLocation();
     console.log(location);
   return (
-    <div>Checkout</div>
+    <div><h2>Checkout</h2></div>
   )
 }
 
